@@ -1,4 +1,5 @@
-System.out.println("Clever Akash");
+System.out.println("Akash is not a clever boy");
 
 
-System.out.println("Akash Changala ahe");
+System.out.println("Akash is a intelligent boy");
+
